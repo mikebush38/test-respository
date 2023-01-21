@@ -1,4 +1,3 @@
-# test-repository
+# My very first repo
 
-
-This is a second example.
+This is a great progam to use 
